@@ -1,6 +1,5 @@
 pullRequestOpened: >
-
-- [ ] Le build est OK
-- [ ] Les pull requests et code reviews ont été validées
-- [ ] il n'y a pas de bloquant ni de critique sur Sonar ou Lint
-- [ ] Les tests unitaires ont été rédigés et sont OK
+  - [ ] Le build est OK
+  - [ ] Les pull requests et code reviews ont été validées
+  - [ ] il n'y a pas de bloquant ni de critique sur Sonar ou Lint
+  - [ ] Les tests unitaires ont été rédigés et sont OK
